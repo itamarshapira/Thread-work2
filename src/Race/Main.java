@@ -12,6 +12,7 @@ public class Main {
         Thread t2 = new Thread(racer2);
         Thread t3 = new Thread(racer3);
         Thread t4 = new Thread(racer4);
+        System.out.println("yuviz!");
         t1.start();
         t2.start();
         t3.start();

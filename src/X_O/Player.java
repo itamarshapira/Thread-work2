@@ -2,11 +2,11 @@ package X_O;
 
 abstract class Player implements Runnable
 {
-    PlayerType playerType;
-
-
+  protected   PlayerType playerType;
     public Player(PlayerType playerType)
     {
         this.playerType = playerType;
     }
+
+    public abstract void playTurn();
 }
