@@ -1,13 +1,8 @@
 package Race;
-
+// Itamar Shapira 315387902 & Ofir Roditi 208647297
 public class Track
 {
     private int finishedRacers=0;
-//    public Track(int id, int meter)
-//    {
-//        finishedRacers++;
-//        System.out.println("Runner: "+id+"finish the race: "+meter+"in the: "+finishedRacers+"st");
-//    }
 
     public Track(){};
 

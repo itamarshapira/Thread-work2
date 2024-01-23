@@ -1,5 +1,5 @@
 package X_O;
-
+// Itamar Shapira 315387902 & Ofir Roditi 208647297
 import java.util.Random;
 import java.util.Scanner;
 

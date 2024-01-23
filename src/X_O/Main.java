@@ -1,4 +1,6 @@
 package X_O;
+// Itamar Shapira 315387902 & Ofir Roditi 208647297
+//https://github.com/itamarshapira/Thread-work2.git
 
 import java.util.Scanner;
 

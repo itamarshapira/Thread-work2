@@ -1,5 +1,5 @@
 package X_O;
-
+// Itamar Shapira 315387902 & Ofir Roditi 208647297
 public class SelfGame extends Game {
 
     private SelfPlayer playerX;
@@ -14,7 +14,7 @@ public class SelfGame extends Game {
 
     @Override
     public synchronized void playGame() {
-        // כל עוד המשחק ממשיך ניכנס ללולאה
+
         while (!isGameFinished()) {
 
             try {

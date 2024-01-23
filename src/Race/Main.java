@@ -1,5 +1,6 @@
 package Race;
-
+// Itamar Shapira 315387902 & Ofir Roditi 208647297
+// https://github.com/itamarshapira/Thread-work2.git
 public class Main {
 
     public static void main(String[] args){
@@ -12,7 +13,7 @@ public class Main {
         Thread t2 = new Thread(racer2);
         Thread t3 = new Thread(racer3);
         Thread t4 = new Thread(racer4);
-        System.out.println("yuviz!");
+
         t1.start();
         t2.start();
         t3.start();

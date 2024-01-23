@@ -1,5 +1,5 @@
 package X_O;
-
+// Itamar Shapira 315387902 & Ofir Roditi 208647297
 import java.util.Random;
 
 public class SelfPlayer extends Player

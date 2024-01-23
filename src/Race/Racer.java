@@ -1,5 +1,5 @@
 package Race;
-
+// Itamar Shapira 315387902 & Ofir Roditi 208647297
 import Race.Track;
 
 public class Racer implements Runnable
