@@ -1,5 +1,9 @@
 package X_O;
 // Itamar Shapira 315387902 & Ofir Roditi 208647297
+
+/*
+how to play specific Self Game. cpu vs cpu.
+ */
 public class SelfGame extends Game {
 
     private SelfPlayer playerX;

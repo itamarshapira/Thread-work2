@@ -1,10 +1,16 @@
 package X_O;
 // Itamar Shapira 315387902 & Ofir Roditi 208647297
+
+// enum that represent the player type.
 enum PlayerType
 {
     X,
     O
 }
+
+/*
+abstract class Game - we have in here all the logic of how to play a game!.
+ */
  abstract class Game
 {
     protected char[][] gameBoard;

@@ -1,5 +1,9 @@
 package X_O;
 // Itamar Shapira 315387902 & Ofir Roditi 208647297
+/*
+self player make the logic of what a self player in the game need to do.
+ */
+
 import java.util.Random;
 
 public class SelfPlayer extends Player

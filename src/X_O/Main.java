@@ -32,12 +32,7 @@ public class Main {
 
         Thread threadO = new Thread(playerO);
         threadO.start();
-        // Wait for the threads to finish
-//        try {
-//            threadO.join();
-//        } catch (InterruptedException e) {
-//            e.printStackTrace();
-//        }
+
     }
 
 

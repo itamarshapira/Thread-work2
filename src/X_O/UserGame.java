@@ -1,5 +1,9 @@
 package X_O;
 // Itamar Shapira 315387902 & Ofir Roditi 208647297
+/*
+how to play specific user Game. cpu vs user.
+ */
+
 import java.util.Scanner;
 
 public class UserGame extends Game
@@ -18,7 +22,7 @@ public class UserGame extends Game
         // כל עוד המשחק ממשיך ניכנס ללולאה
         while (!isGameFinished()) {
             try {
-                Thread.currentThread().sleep(100);
+                Thread.currentThread().sleep(500);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
